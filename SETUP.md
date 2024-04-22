@@ -140,7 +140,7 @@ CircuitVerse uses Yarn for frontend package and asset management.
     bash -s stable --ruby --autolibs=enable --auto-dotfiles
     ```
 ### Heroku Deployment
-[Heroku](https://www.heroku.com) is a free cloud platform that can be used for deployment of CircuitVerse
+Build.io is a free cloud platform that can be used for deployment of CircuitVerse
 
 You will be redirected to the Heroku page for deployment on clicking the below button. Make sure that you fill in the `Config Vars` section before deploying it.
 
