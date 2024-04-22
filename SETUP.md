@@ -89,8 +89,7 @@ bundle exec sidekiq -e production -q default -q mailers -d -L tmp/sidekiq.log
 You will be redirected to the Heroku page for deployment on clicking the below button.
 Make sure that you fill in the `Config Vars` section before deploying it.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CircuitVerse/CircuitVerse)
-
+Build.io
 
 ### Additional instructions for Ubuntu
 Additional instructions can be found [here](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/) and there are some extra notes for single user installations:
