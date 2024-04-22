@@ -98,8 +98,7 @@ CircuitVerse uses Yarn for frontend package and asset management.
 
 You will be redirected to the Heroku page for deployment on clicking the below button. Make sure that you fill in the `Config Vars` section before deploying it.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CircuitVerse/CircuitVerse)
-
+Build.io
 
 ## Development
 To seed the database with some sample data, run `bundle exec rake db:seed`. This will add the following admin credentials:
